@@ -3,7 +3,7 @@
  * 
  * Usage:
  * $(window).smartresize(function(){  
- *     // code here
+ *     // code here 
  * });
  */
 
