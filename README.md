@@ -41,28 +41,37 @@ Static Files: CSS, JavaScript, and Images 📂
 ### 📦 Installation & Setup
 
 1️⃣ Clone the Repository
+```
+git clone [https://github.com/yourusername/social-echo.git](https://github.com/RoaaM/SocialEcho)
 
-git clone https://github.com/yourusername/social-echo.git
 cd social-echo
+```
 
 2️⃣ Create a Virtual Environment
-
+```
 python -m venv env
+
 source env/bin/activate  # For macOS/Linux
+
 env\Scripts\activate     # For Windows
+```
 
 3️⃣ Install Dependencies
-
+```
 pip install -r requirements.txt
+```
 
 4️⃣ Apply Migrations
-
+```
 python manage.py makemigrations
+
 python manage.py migrate
+```
 
 5️⃣ Create a Superuser
-
+```
 python manage.py createsuperuser
+```
 
 6️⃣ Run the Server
 
