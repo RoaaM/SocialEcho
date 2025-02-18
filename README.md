@@ -1,10 +1,10 @@
-📢 ### Social Echo – A Social Media Platform Built with Django
+###📢 Social Echo – A Social Media Platform Built with Django
 
-🚀 ### Introduction
+###🚀 Introduction
 
 Social Echo is a feature-rich social media platform built using Django and Django Template Language (DTL). It enables users to connect, share posts, interact with others, and manage their profiles seamlessly.
 
-📌 ### Features
+###📌 Features
 
 ✅ User Authentication – Signup, Signin, and Logout functionalities
 
@@ -26,7 +26,7 @@ Social Echo is a feature-rich social media platform built using Django and Djang
 
 ✅ Responsive UI – Built with Django Templates (DTL) and static files management
 
-🛠️ ### Tech Stack
+###🛠️ Tech Stack
 
 Backend: Django (Python) 🐍
 
@@ -38,7 +38,7 @@ Authentication: Django’s built-in authentication system 🔑
 
 Static Files: CSS, JavaScript, and Images 📂
 
-📦 ### Installation & Setup
+###📦 Installation & Setup
 
 1️⃣ Clone the Repository
 
