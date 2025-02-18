@@ -42,7 +42,7 @@ Static Files: CSS, JavaScript, and Images 📂
 
 1️⃣ Clone the Repository
 ```
-git clone [https://github.com/RoaaM/SocialEcho](https://github.com/RoaaM/SocialEcho)
+git clone https://github.com/RoaaM/SocialEcho.git
 
 cd social-echo
 ```
@@ -77,7 +77,7 @@ python manage.py createsuperuser
 
 python manage.py runserver
 
-🔗 Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/)in your browser to access the application.
+🔗 Open http://127.0.0.1:8000/ in your browser to access the application.
 
 
 ## 🖼️ Screenshots
